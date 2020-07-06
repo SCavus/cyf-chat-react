@@ -19,6 +19,7 @@
 .all-messages-container {
   display: flex;
   flex-direction: row;
+  justify-content: space-around;
 }
 
 .chat {
@@ -27,7 +28,7 @@
 }
 .message-history {
   margin-top: 3%;
-  margin-left: 10%;
+  margin-right:  10%;
 }
 
 input {
